@@ -13,6 +13,7 @@ dengan hasil output sebagai berikut:
 
 
 <i>Ketiga</i>, membuat paragraf dengan tag P (paragraf) pada body <br>
+agar paragraf bervariasi, dapat ditambahkan tag Span pada kata yang ingin di highlight, tag Bold pada kata yang penting, tag Italic dan Underline pada kata yang informatif <br>
 dengan hasil output sebagai berikut:
 ![WhatsApp Image 2024-09-26 at 15 40 00](https://github.com/user-attachments/assets/eb73a314-ff39-4e0e-945f-9aed53b21c2f)
 agar paragraf bervariasi, dapat ditambahkan tag Span pada kata yang ingin di highlight, tag Bold pada kata yang penting, tag Italic dan Underline pada kata yang informatif
