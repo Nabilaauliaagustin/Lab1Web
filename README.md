@@ -26,4 +26,6 @@ dengan hasil output sebagai berikut:
 dengan hasil output sebagai berikut:
 ![WhatsApp Image 2024-09-26 at 14 33 37 (2)](https://github.com/user-attachments/assets/acd32248-4bd0-4678-ab5f-4a055510599b)
 
-<i>keenam</i> membuat menu baru pada halaman yang sudah dihubungkan dengan file .html lain, dapat berupa menu apapun yang sesuai dengan navigasi yang sudah dibuat sebelumnya
+<i>keenam</i> membuat menu baru pada halaman yang sudah dihubungkan dengan file .html lain, dapat berupa menu apapun yang sesuai dengan navigasi yang sudah dibuat sebelumnya <br>
+dengan hasil output sebagai berikut:
+![WhatsApp Image 2024-09-26 at 15 40 02](https://github.com/user-attachments/assets/b0c89a59-a7e9-429d-95ea-73b5c86acd18)
