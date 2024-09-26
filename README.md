@@ -37,10 +37,10 @@ dengan hasil output sebagai berikut:
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? <br>
   ketika menuklis tag namun ada kesalahan maka perintah tidak akan berjalan / tidak akan muncul seperti yang ingin diperintahkan, error biasanya terjadi pada kode yang memerlukan penutup tag.
 
-2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya! <br>
+2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya! <br>
   tag p adalah penanda sebuah paragraf, ddan br atau break adalah tanda untuk memberikan enter pada paragraf, jika paragraf tidak menggunakan br maka kalimat tidak memiliki ujung.
  
-3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya! <br>
+3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya! <br>
    tag alt atau alternative Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. dan Title image ini digunakan untuk memberikan judul untuk gambar.
 
 5. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
