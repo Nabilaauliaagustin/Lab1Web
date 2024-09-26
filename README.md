@@ -20,3 +20,6 @@ dengan hasil output sebagai berikut:
 <i>Keempat</i>, menambahkan gambar dengan tag Img pada body <br>
 dengan hasil output sebagai berikut:
 ![Desain tanpa judul (1)](https://github.com/user-attachments/assets/969095e0-4335-4603-ab42-b2263f22b998)
+
+
+<i>Kelima</i>, membuat navigasi dengan tag a, gunanya fungsi tag a adalah menginput link agar dapat berpindah dari link A ke B, dapat berupa folder maupun link internal dan external
