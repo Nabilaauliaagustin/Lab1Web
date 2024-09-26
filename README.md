@@ -9,6 +9,6 @@
 ![Desain tanpa judul](https://github.com/user-attachments/assets/acbc4dfc-ec90-49b9-81c8-098493161250)
 
 <i>Ketiga</i>, membuat paragraf dengan tag <p>
-![WhatsApp Image 2024-09-26 at 14 33 37](https://github.com/user-attachments/assets/42b196ea-dd10-425b-864c-340523baa989)
+![WhatsApp Image 2024-09-26 at 14 33 36](https://github.com/user-attachments/assets/ce6520a5-a12f-4055-8148-dc200c472b76)
 agar paragraf bervariasi, dapat ditambahkan tag Span pada kata yang ingin di highlight, tag Bold pada kata yang penting, tag Italic dan Underline pada kata yang informatif
 
