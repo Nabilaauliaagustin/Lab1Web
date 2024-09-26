@@ -44,7 +44,7 @@ dengan hasil output sebagai berikut:
    <i>tag alt atau alternative Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. dan Title image ini digunakan untuk memberikan judul untuk gambar.</i>
  
 5. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! <br>
-   <i>lebih baik menggunakan satu fitur saja untuk menjaga aspek rasio gambar asli. Namun, dalam situasi tertentu, seperti ketika gambar memiliki ukuran yang proporsional atau pas, tinggal mengatur width.<i/>
+   <i>lebih baik menggunakan satu fitur saja untuk menjaga aspek rasio gambar asli. Namun, dalam situasi tertentu, seperti ketika gambar memiliki ukuran yang proporsional atau pas, tinggal mengatur width.</i>
 
 7. Pada link tambahkan atribut target dengan nilai atribut bervariasi (blonk, self, top, porent), apa yang terjadi pada masing-masing nilai antribut tersebut? <br>
    <i>Nilai _blank akan membuka link/halaman di tab baru. <br>
