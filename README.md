@@ -22,4 +22,6 @@ dengan hasil output sebagai berikut:
 ![Desain tanpa judul (1)](https://github.com/user-attachments/assets/969095e0-4335-4603-ab42-b2263f22b998)
 
 
-<i>Kelima</i>, membuat navigasi dengan tag a, gunanya fungsi tag a adalah menginput link agar dapat berpindah dari link A ke B, dapat berupa folder maupun link internal dan external
+<i>Kelima</i>, membuat navigasi dengan tag a, gunanya fungsi tag a adalah menginput link agar dapat berpindah dari link A ke B, dapat berupa folder maupun link internal dan external <br>
+dengan hasil output sebagai berikut:
+![WhatsApp Image 2024-09-26 at 14 33 37 (2)](https://github.com/user-attachments/assets/acd32248-4bd0-4678-ab5f-4a055510599b)
