@@ -1,4 +1,4 @@
-n# Lab1Web
+# Lab1Web
 
 <b>Praktikum Membuat Website Sederhana</b>
 
@@ -9,4 +9,5 @@ n# Lab1Web
 ![WhatsApp Image 2024-09-26 at 14 33 37](https://github.com/user-attachments/assets/42b196ea-dd10-425b-864c-340523baa989)
 agar paragraf bervariasi, dapat ditambahkan tag Span pada kata yang ingin di highlight, tag Bold pada kata yang penting, tag Italic dan Underline pada kata yang informatif
 
-<i>ketiga </i>, 
+<i>ketiga </i>, membuat juddul headline dari format terbesar yaitu h1, dilanjut dengan sesuai keperluan dari h2 hingga h6 
+![WhatsApp Image 2024-09-26 at 15 40 00](https://github.com/user-attachments/assets/829282bd-bc37-46a1-b98e-fbd0fb417ae3)
