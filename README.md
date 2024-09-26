@@ -35,19 +35,19 @@ dengan hasil output sebagai berikut:
 <b>Jawab Pertanyaan Berikut</b>
 
 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag? <br>
-  ketika menuklis tag namun ada kesalahan maka perintah tidak akan berjalan / tidak akan muncul seperti yang ingin diperintahkan, error biasanya terjadi pada kode yang memerlukan penutup tag.
+   <i>ketika menuklis tag namun ada kesalahan maka perintah tidak akan berjalan / tidak akan muncul seperti yang ingin diperintahkan, error biasanya terjadi pada kode yang memerlukan penutup tag.</i>
 
 2. Apa perbedaan dari tag p dengan tag br, berikan penjelasannya! <br>
-  tag p adalah penanda sebuah paragraf, ddan br atau break adalah tanda untuk memberikan enter pada paragraf, jika paragraf tidak menggunakan br maka kalimat tidak memiliki ujung.
+   <i>tag p adalah penanda sebuah paragraf, ddan br atau break adalah tanda untuk memberikan enter pada paragraf, jika paragraf tidak menggunakan br maka kalimat tidak memiliki ujung.</i>
  
 3. Apa perbedaan atribut title dan alt pada tag img, berikan penjelasannya! <br>
-   tag alt atau alternative Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. dan Title image ini digunakan untuk memberikan judul untuk gambar.
+   <i>tag alt atau alternative Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan. dan Title image ini digunakan untuk memberikan judul untuk gambar.</i>
+ 
+5. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya! <br>
+   <i>lebih baik menggunakan satu fitur saja untuk menjaga aspek rasio gambar asli. Namun, dalam situasi tertentu, seperti ketika gambar memiliki ukuran yang proporsional atau pas, tinggal mengatur width.<i/>
 
-5. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
-  lebih baik menggunakan satu fitur saja untuk menjaga aspek rasio gambar asli. Namun, dalam situasi tertentu, seperti ketika gambar memiliki ukuran yang proporsional atau pas, tinggal mengatur width.
-
-7. Pada link tambahkan atribut target dengan nilai atribut bervariasi (blonk, self, top, porent), apa yang terjadi pada masing-masing nilai antribut tersebut?
-   Nilai _blank akan membuka link/halaman di tab baru.
-   Nilai _self akan membuka link/halaman di tab saat ini.
-   Nilai _top membuka link/halaman dan membatalkan semua frame.
-   Nilai _parent membuka link/halaman pada parent frame.
+7. Pada link tambahkan atribut target dengan nilai atribut bervariasi (blonk, self, top, porent), apa yang terjadi pada masing-masing nilai antribut tersebut? <br>
+   <i>Nilai _blank akan membuka link/halaman di tab baru. <br>
+   Nilai _self akan membuka link/halaman di tab saat ini. <br>
+   Nilai _top membuka link/halaman dan membatalkan semua frame. <br>
+   Nilai _parent membuka link/halaman pada parent frame. <i/>
